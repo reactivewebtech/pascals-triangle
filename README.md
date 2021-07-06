@@ -2,7 +2,7 @@
 
 
 #### Objective:
-Build a web application using HTML and JavaScript that will print Pascal's triangle
+Build a web application using PHP+HTML5+JS that will print Pascal's triangle
 
 #### what is this?
 Pascal's triangle, named after **Blaise Pascal** is a triangle of hexagons (I'll call **cell**). Where the number of cells each row is `n + 1` where `n` is initially `1`. So `row 0` (which is the tip if the triangle) would have 1 cell in it, `row 1` would have 2 cells in it, `row 2` would have 3 cells in it, and so on.
